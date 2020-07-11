@@ -1,0 +1,22 @@
+.main{
+    background-color:#00B0FF;
+    text-align: center;
+}
+.h1,h1,h1,h1{
+    display: inline-block !important;
+    background-color:#BBDEFB;
+    width:100px;
+    margin-top: auto;
+    padding-right: 10px;
+    color: #0D47A1;
+  
+  
+}
+.main2{
+    width:200px;
+    margin-left: 40px;
+    height: 50px;
+    color: #0D47A1;
+    background-color: #BBDEFB;
+}
+
